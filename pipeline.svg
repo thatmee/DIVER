@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="846.85474"
+   height="243.85869"
+   overflow="hidden"
+   version="1.1"
+   id="svg109"
+   sodipodi:docname="pipeline.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview109"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5787832"
+     inkscape:cx="399.04149"
+     inkscape:cy="59.222824"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg109"
+     inkscape:clip-to-page="true" />
+  <defs
+     id="defs2">
+    <image
+       width="64"
+       height="64"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCABAAEADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KKKACucoro68P/AJGP93l+e/3djt/3fzuFFFFe4cQVzlFdHXh/8jH+7y/Pf7ux2/7v53Cucoro6P8AkY/3eX57/d2D/d/O4UUUV7hxBXOUV0deH/yMf7vL89/u7Hb/ALv53CiiivcOIKKKKACucoro68P/AJGP93l+e/3djt/3fzuFFFFe4cQVzlFdHXh/8jH+7y/Pf7ux2/7v53Cucoro6P8AkY/3eX57/d2D/d/O4UUUV7hxBXOUV0deH/yMf7vL89/u7Hb/ALv53CiiivcOI//Z"
+       preserveAspectRatio="none"
+       id="img0" />
+    <pattern
+       width="64"
+       height="64"
+       patternUnits="userSpaceOnUse"
+       id="pattern1"
+       overflow="hidden"
+       patternTransform="matrix(0.125 0 0 0.125 944 360)">
+      <use
+         width="100%"
+         height="100%"
+         xlink:href="#img0"
+         id="use1" />
+    </pattern>
+    <pattern
+       width="64"
+       height="64"
+       patternUnits="userSpaceOnUse"
+       id="pattern2"
+       overflow="hidden"
+       patternTransform="matrix(0.125 0 0 0.125 944 384)">
+      <use
+         width="100%"
+         height="100%"
+         xlink:href="#img0"
+         id="use2" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath112">
+      <rect
+         style="fill:#000000"
+         id="rect113"
+         width="846.85474"
+         height="243.85869"
+         x="192.82016"
+         y="192.18675" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(-192.82016,-192.18675)"
+     id="g109">
+    <rect
+       x="0"
+       y="0"
+       width="1280"
+       height="720"
+       fill="#ffffff"
+       id="rect2"
+       clip-path="url(#clipPath112)" />
+    <rect
+       x="831"
+       y="199"
+       width="199"
+       height="229"
+       stroke="#fffbf0"
+       stroke-width="4"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-opacity="0.301961"
+       id="rect3" />
+    <path
+       d="m 939,261.051 c 0,-4.446 3.605,-8.051 8.052,-8.051 h 65.898 c 4.45,0 8.05,3.605 8.05,8.051 v 147.897 c 0,4.447 -3.6,8.052 -8.05,8.052 H 947.052 C 942.605,417 939,413.395 939,408.948 Z"
+       fill="#fffbf0"
+       fill-rule="evenodd"
+       id="path3" />
+    <rect
+       x="474"
+       y="199"
+       width="326"
+       height="229"
+       stroke="#f6faff"
+       stroke-width="4"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-opacity="0.301961"
+       id="rect4" />
+    <path
+       d="m 651,265.767 c 0,-4.842 3.925,-8.767 8.767,-8.767 h 115.466 c 4.842,0 8.767,3.925 8.767,8.767 v 143.466 c 0,4.842 -3.925,8.767 -8.767,8.767 H 659.767 C 654.925,418 651,414.075 651,409.233 Z"
+       stroke="#f6faff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#f6faff"
+       fill-rule="evenodd"
+       id="path4" />
+    <rect
+       x="302"
+       y="199"
+       width="138"
+       height="229"
+       stroke="#f9fcf5"
+       stroke-width="4"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-opacity="0.301961"
+       id="rect5" />
+    <path
+       d="m 200,204.06 c 0,-2.795 2.265,-5.06 5.06,-5.06 h 55.88 c 2.794,0 5.06,2.265 5.06,5.06 v 218.88 c 0,2.795 -2.266,5.06 -5.06,5.06 h -55.88 c -2.795,0 -5.06,-2.265 -5.06,-5.06 z"
+       stroke="#f2f2f2"
+       stroke-width="4"
+       stroke-miterlimit="8"
+       fill="#f2f2f2"
+       fill-rule="evenodd"
+       id="path5" />
+    <text
+       fill="#595959"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(223.853,309)"
+       id="text5">NL</text>
+    <text
+       fill="#595959"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(212.02,328)"
+       id="text6">Query</text>
+    <text
+       fill="#595959"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(253.52,328)"
+       id="text7" />
+    <rect
+       x="474"
+       y="199"
+       width="326"
+       height="50"
+       fill="#f6faff"
+       id="rect7" />
+    <text
+       fill="#3399ff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(584.133,221)"
+       id="text8">Look up Assistant</text>
+    <text
+       fill="#3399ff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(689.133,221)"
+       id="text9" />
+    <text
+       fill="#595959"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(610.133,238)"
+       id="text10">(Sec. 4.2)</text>
+    <text
+       fill="#3399ff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="14px"
+       transform="translate(663.133,238)"
+       id="text11" />
+    <path
+       d="m 275,310.25 h 10 V 297 l 10,26.5 -10,26.5 v -13.25 h -10 z"
+       fill="#e7e6e6"
+       fill-rule="evenodd"
+       id="path11" />
+    <rect
+       x="302"
+       y="199"
+       width="138"
+       height="50"
+       fill="#f9fcf5"
+       id="rect11" />
+    <text
+       fill="#8dcd47"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(315.217,221)"
+       id="text12">Break up Assistant</text>
+    <text
+       fill="#8dcd47"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(426.884,221)"
+       id="text13" />
+    <text
+       fill="#595959"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(344.55,238)"
+       id="text14">(Sec. 4.1)</text>
+    <text
+       fill="#8dcd47"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="14px"
+       transform="translate(397.55,238)"
+       id="text15" />
+    <path
+       d="m 448,310.25 h 9.5 V 297 l 9.5,26.5 -9.5,26.5 V 336.75 H 448 Z"
+       fill="#e7e6e6"
+       fill-rule="evenodd"
+       id="path15" />
+    <path
+       d="m 806,310.25 h 10 V 297 l 10,26.5 -10,26.5 v -13.25 h -10 z"
+       fill="#e7e6e6"
+       fill-rule="evenodd"
+       id="path16" />
+    <rect
+       x="831"
+       y="199"
+       width="199"
+       height="46"
+       fill="#fffbf0"
+       id="rect16" />
+    <text
+       fill="#fdbb01"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(875.364,219)"
+       id="text16">Evidence Assistant</text>
+    <text
+       fill="#fdbb01"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="16px"
+       transform="translate(986.197,219)"
+       id="text17" />
+    <text
+       fill="#595959"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="400"
+       font-size="14px"
+       transform="translate(904.284,236)"
+       id="text18">(Sec. 4.3)</text>
+    <text
+       fill="#3399ff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="14px"
+       transform="translate(957.284,236)"
+       id="text19" />
+    <path
+       d="m 313.5,348.5 c 0,-3.866 3.134,-7 7,-7 h 102 c 3.866,0 7,3.134 7,7 v 28 c 0,3.866 -3.134,7 -7,7 h -102 c -3.866,0 -7,-3.134 -7,-7 z"
+       stroke="#ebf6de"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ebf6de"
+       fill-rule="evenodd"
+       id="path19" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(343.371,359)"
+       id="text20">(ii) Token</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(378.704,359)"
+       id="text21">-</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(381.371,359)"
+       id="text22">level</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(349.451,372)"
+       id="text23">Refinement</text>
+    <path
+       d="m 313.5,279.667 c 0,-5.063 4.104,-9.167 9.167,-9.167 h 98.666 c 5.063,0 9.167,4.104 9.167,9.167 v 36.666 c 0,5.063 -4.104,9.167 -9.167,9.167 h -98.666 c -5.063,0 -9.167,-4.104 -9.167,-9.167 z"
+       stroke="#ebf6de"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ebf6de"
+       fill-rule="evenodd"
+       id="path23" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(345.679,288)"
+       id="text24">(</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(348.346,288)"
+       id="text25">i</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(350.512,288)"
+       id="text26">) LLM</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(371.679,288)"
+       id="text27">-</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(374.346,288)"
+       id="text28">based</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(342.179,301)"
+       id="text29">Coarse</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(369.512,301)"
+       id="text30">-</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(372.179,301)"
+       id="text31">grained</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(354.426,315)"
+       id="text32">Break up</text>
+    <text
+       fill="#404040"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(342.178,411)"
+       id="text33">child clauses</text>
+    <path
+       d="m 342.178,413.464 h 15.75 15.75 15.75 15.75 v 1 h -15.75 -15.75 -15.75 -15.75 z"
+       fill="#404040"
+       fill-rule="evenodd"
+       id="path33" />
+    <g
+       id="g39">
+      <g
+         id="g38">
+        <g
+           id="g37">
+          <path
+             d="m 772.375,353.062 c 0,1.243 -3.526,2.25 -7.875,2.25 -4.349,0 -7.875,-1.007 -7.875,-2.25 0,-1.242 3.526,-2.25 7.875,-2.25 4.349,0 7.875,1.008 7.875,2.25 z"
+             stroke="#000000"
+             stroke-width="0.409092"
+             fill="none"
+             id="path34" />
+          <path
+             d="m 770.125,358.688 c -0.338,0 -0.563,-0.226 -0.563,-0.563 0,-0.337 0.225,-0.563 0.563,-0.563 0.338,0 0.563,0.226 0.563,0.563 0,0.337 -0.225,0.563 -0.563,0.563 z m -5.625,-2.25 c -4.331,0 -7.875,-1.013 -7.875,-2.25 v 4.5 c 0,1.237 3.544,2.25 7.875,2.25 4.331,0 7.875,-1.013 7.875,-2.25 v -4.5 c 0,1.237 -3.544,2.25 -7.875,2.25 z"
+             stroke="#000000"
+             stroke-width="0.409092"
+             fill="none"
+             id="path35" />
+          <path
+             d="m 770.125,364.312 c -0.338,0 -0.563,-0.225 -0.563,-0.562 0,-0.337 0.225,-0.562 0.563,-0.562 0.338,0 0.563,0.225 0.563,0.562 0,0.337 -0.225,0.562 -0.563,0.562 z m -5.625,-2.25 c -4.331,0 -7.875,-1.012 -7.875,-2.25 v 4.5 c 0,1.238 3.544,2.25 7.875,2.25 4.331,0 7.875,-1.012 7.875,-2.25 v -4.5 c 0,1.238 -3.544,2.25 -7.875,2.25 z"
+             stroke="#000000"
+             stroke-width="0.409092"
+             fill="none"
+             id="path36" />
+          <path
+             d="m 770.125,369.938 c -0.338,0 -0.563,-0.226 -0.563,-0.563 0,-0.337 0.225,-0.563 0.563,-0.563 0.338,0 0.563,0.226 0.563,0.563 0,0.337 -0.225,0.563 -0.563,0.563 z m -5.625,-2.25 c -4.331,0 -7.875,-1.013 -7.875,-2.25 v 4.5 c 0,1.237 3.544,2.25 7.875,2.25 4.331,0 7.875,-1.013 7.875,-2.25 v -4.5 c 0,1.237 -3.544,2.25 -7.875,2.25 z"
+             stroke="#000000"
+             stroke-width="0.409092"
+             fill="none"
+             id="path37" />
+        </g>
+      </g>
+    </g>
+    <path
+       d="m 769,336 v 8.856 h -2 V 336 Z m 1.667,7.523 -2.667,5.333 -2.667,-5.334 z"
+       fill="#3399ff"
+       id="path39" />
+    <path
+       d="M 8.16647e-6,-1 8.85586,-0.999928 8.85585,1.00007 -8.16647e-6,1 Z M 7.52254,-2.6666 12.8559,1.04987e-4 7.5225,2.66673 Z"
+       fill="#3399ff"
+       transform="matrix(0,-1,-1,0,761,347.856)"
+       id="path40" />
+    <path
+       d="m 714,312 c 0,-2.209 1.791,-4 4,-4 h 54 c 2.209,0 4,1.791 4,4 v 16 c 0,2.209 -1.791,4 -4,4 h -54 c -2.209,0 -4,-1.791 -4,-4 z"
+       stroke="#e1f0ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#e1f0ff"
+       fill-rule="evenodd"
+       id="path41" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(736.923,317)"
+       id="text41">Tool</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(726.169,328)"
+       id="text42">Execution</text>
+    <path
+       d="m 487.5,283.161 c 0,-2.022 1.639,-3.661 3.661,-3.661 h 136.678 c 2.022,0 3.661,1.639 3.661,3.661 v 34.678 c 0,2.022 -1.639,3.661 -3.661,3.661 H 491.161 c -2.022,0 -3.661,-1.639 -3.661,-3.661 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path42" />
+    <path
+       d="m 561,288.504 c 0,-1.935 1.569,-3.504 3.504,-3.504 h 55.992 c 1.935,0 3.504,1.569 3.504,3.504 v 5.992 c 0,1.935 -1.569,3.504 -3.504,3.504 H 564.504 C 562.569,298 561,296.431 561,294.496 Z"
+       stroke="#ffffff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path43" />
+    <text
+       fill="#3399ff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(576.241,295)"
+       id="text43">Tool #1</text>
+    <path
+       d="m 492,290.275 c 0,-2.913 2.362,-5.275 5.275,-5.275 h 50.45 c 2.913,0 5.275,2.362 5.275,5.275 v 20.45 c 0,2.913 -2.362,5.275 -5.275,5.275 h -50.45 C 494.362,316 492,313.638 492,310.725 Z"
+       stroke="#afabab"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afabab"
+       fill-rule="evenodd"
+       id="path44" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(506.585,297)"
+       id="text44">Thought</text>
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(516.165,310)"
+       id="text45">#1</text>
+    <path
+       d="m 561,306.504 c 0,-1.935 1.569,-3.504 3.504,-3.504 h 56.992 c 1.935,0 3.504,1.569 3.504,3.504 v 5.992 c 0,1.935 -1.569,3.504 -3.504,3.504 H 564.504 C 562.569,316 561,314.431 561,312.496 Z"
+       stroke="#afd7ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afd7ff"
+       fill-rule="evenodd"
+       id="path45" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(576.163,313)"
+       id="text46">Fact #1</text>
+    <text
+       fill="#404040"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="9px"
+       transform="translate(506.617,263)"
+       id="text47">clause</text>
+    <text
+       fill="#404040"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="9px"
+       transform="translate(557.494,263)"
+       id="text48">tool guidance</text>
+    <path
+       d="m 515,273.5 h 3 V 268 h 6 v 5.5 h 3 l -6,5.5 z"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path48" />
+    <path
+       d="m 580,273.5 h 3 V 268 h 6 v 5.5 h 3 l -6,5.5 z"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path49" />
+    <path
+       d="m 487.5,404.127 c 0,-2.003 1.624,-3.627 3.627,-3.627 h 136.746 c 2.003,0 3.627,1.624 3.627,3.627 v 9.746 c 0,2.003 -1.624,3.627 -3.627,3.627 H 491.127 c -2.003,0 -3.627,-1.624 -3.627,-3.627 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path50" />
+    <text
+       fill="#767171"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="12px"
+       transform="translate(536.2,412)"
+       id="text50">Terminate</text>
+    <text
+       fill="#767171"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(554.433,396)"
+       id="text51">…</text>
+    <text
+       fill="#404040"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="14px"
+       transform="translate(661.021,407)"
+       id="text52">Toolbox</text>
+    <text
+       fill="#404040"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="14px"
+       transform="translate(703.187,407)"
+       id="text53" />
+    <path
+       d="m 660.854,409.097 h 10.5 10.5 10.5 10.5 v 1 h -10.5 -10.5 -10.5 -10.5 z"
+       fill="#404040"
+       fill-rule="evenodd"
+       id="path53" />
+    <g
+       id="g61">
+      <g
+         id="g60">
+        <g
+           id="g59">
+          <path
+             d="M 756.271,282.792 V 267.208 H 762 v 4.813 h 5.729 v 10.771 z m 7.104,-15.011 2.865,2.865 h -2.865 z m 0,-1.948 h -8.479 v 18.334 h 14.208 v -13.292 z"
+             fill="#a6a6a6"
+             id="path54" />
+          <path
+             d="m 757.646,274.312 h 8.708 v 0.917 h -8.708 z"
+             fill="#a6a6a6"
+             id="path55" />
+          <path
+             d="m 757.646,272.479 h 2.979 v 0.917 h -2.979 z"
+             fill="#a6a6a6"
+             id="path56" />
+          <path
+             d="m 757.646,276.146 h 8.708 v 0.916 h -8.708 z"
+             fill="#a6a6a6"
+             id="path57" />
+          <path
+             d="m 757.646,277.979 h 8.708 v 0.917 h -8.708 z"
+             fill="#a6a6a6"
+             id="path58" />
+          <path
+             d="m 757.646,279.812 h 8.708 v 0.917 h -8.708 z"
+             fill="#a6a6a6"
+             id="path59" />
+        </g>
+      </g>
+    </g>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="7px"
+       transform="translate(756.253,292)"
+       id="text61">Tool</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="7px"
+       transform="translate(752.333,299)"
+       id="text62">History</text>
+    <path
+       d="m 663,271 c 0,-2.209 1.791,-4 4,-4 h 56 c 2.209,0 4,1.791 4,4 v 16 c 0,2.209 -1.791,4 -4,4 h -56 c -2.209,0 -4,-1.791 -4,-4 z"
+       stroke="#e1f0ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#e1f0ff"
+       fill-rule="evenodd"
+       id="path62" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(686.548,277)"
+       id="text63">Tool</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(682.802,288)"
+       id="text64">Check</text>
+    <path
+       d="M 3.89622e-6,-0.666667 13.9639,-0.666585 V 0.666748 L -3.89622e-6,0.666667 Z M 12.6306,-2.66659 17.9639,1.04987e-4 12.6305,2.66674 Z"
+       fill="#a6a6a6"
+       transform="matrix(-1,0,0,1,751.464,278.5)"
+       id="path64" />
+    <path
+       d="m 713.967,294.024 7.102,6.975 -0.934,0.951 -7.102,-6.974 z m 7.552,4.614 1.937,5.639 -5.674,-1.834 z"
+       fill="#a6a6a6"
+       id="path65" />
+    <path
+       d="m 696.167,296.5 v 40.83 h -1.334 V 296.5 Z m 2,39.497 -2.667,5.333 -2.667,-5.333 z"
+       fill="#a6a6a6"
+       id="path66" />
+    <path
+       d="m 714,390 c 0,-2.209 1.791,-4 4,-4 h 55 c 2.209,0 4,1.791 4,4 v 16 c 0,2.209 -1.791,4 -4,4 h -55 c -2.209,0 -4,-1.791 -4,-4 z"
+       stroke="#e1f0ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#e1f0ff"
+       fill-rule="evenodd"
+       id="path67" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(737.432,396)"
+       id="text67">Tool</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(727.265,407)"
+       id="text68">Feedback</text>
+    <path
+       d="m 663,349 c 0,-2.209 1.791,-4 4,-4 h 56 c 2.209,0 4,1.791 4,4 v 16 c 0,2.209 -1.791,4 -4,4 h -56 c -2.209,0 -4,-1.791 -4,-4 z"
+       stroke="#e1f0ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#e1f0ff"
+       fill-rule="evenodd"
+       id="path68" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(678.135,355)"
+       id="text69">Dynamic</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(674.135,366)"
+       id="text70">Tool Route</text>
+    <path
+       d="m 713.967,373.024 7.102,6.975 -0.934,0.951 -7.102,-6.974 z m 7.552,4.614 1.937,5.639 -5.674,-1.834 z"
+       fill="#a6a6a6"
+       id="path70" />
+    <path
+       d="m 739.167,337.5 v 40.83 h -1.334 V 337.5 Z m 2,39.497 -2.667,5.333 -2.667,-5.333 z"
+       fill="#a6a6a6"
+       id="path71" />
+    <path
+       d="m 710.749,398.968 -2.045,-0.531 -1.783,-0.888 -2.301,-2.445 -1.153,-3.093 -0.512,-3.309 -0.384,-3.33 0.017,0.104 -0.71,-3.172 0.093,0.253 -1.479,-2.773 0.179,0.239 -1.166,-1.155 0.171,0.136 -1.523,-0.958 0.258,0.115 -4.106,-1.176 0.204,0.036 -5.193,-0.367 0.086,0.002 -5.913,0.093 0.016,-0.001 -6.285,0.202 -6.322,-0.041 -6.015,-0.647 -5.321,-1.635 -2.348,-1.356 -1.995,-1.753 -1.63,-2.213 -1.307,-2.631 -1.038,-2.98 -0.818,-3.283 -1.124,-7.183 -0.703,-7.695 -0.558,-7.72 0.002,0.021 -0.686,-7.281 0.01,0.074 -1.086,-6.364 0.025,0.11 -0.778,-2.685 0.042,0.117 -0.98,-2.273 0.084,0.155 -2.347,-3.552 0.129,0.158 -2.596,-2.585 0.157,0.128 -2.734,-1.792 0.156,0.083 -2.76,-1.175 0.128,0.045 -2.675,-0.733 0.07,0.016 -2.479,-0.49 0.388,-1.962 2.515,0.497 2.774,0.761 2.905,1.236 2.893,1.897 2.741,2.728 2.452,3.711 1.04,2.413 0.812,2.8 1.102,6.457 0.69,7.33 0.558,7.722 -0.002,-0.019 0.699,7.653 -0.008,-0.064 1.113,7.107 -0.017,-0.087 0.796,3.197 -0.026,-0.087 1.002,2.877 -0.049,-0.116 1.241,2.496 -0.091,-0.148 1.514,2.056 -0.145,-0.158 1.84,1.616 -0.16,-0.115 2.164,1.25 -0.206,-0.09 5.121,1.574 -0.187,-0.038 5.87,0.631 -0.101,-0.005 6.252,0.04 h -0.038 l 6.274,-0.201 5.965,-0.093 5.341,0.377 4.343,1.244 1.737,1.093 1.351,1.339 1.614,3.026 0.751,3.355 0.388,3.363 -0.005,-0.038 0.494,3.189 -0.051,-0.196 1.047,2.809 -0.209,-0.337 2.04,2.168 -0.282,-0.21 1.529,0.762 -0.194,-0.072 1.943,0.504 z M 630.684,311.69 626,308 l 5.762,-1.533 z"
+       fill="#3399ff"
+       id="path72" />
+    <path
+       d="m 626.898,292.201 2.912,-2.417 2.911,-2.224 3.586,-2.189 2.273,-1.141 2.7,-1.198 5.477,-1.87 4.984,-0.98 5.965,-0.622 0.207,1.989 -5.919,0.617 0.089,-0.013 -4.874,0.958 0.131,-0.035 -5.372,1.835 0.083,-0.033 -2.638,1.171 0.043,-0.021 -2.215,1.112 0.072,-0.04 -3.505,2.14 0.086,-0.059 -2.854,2.18 0.032,-0.025 -2.897,2.404 z m 29.329,-14.174 5.564,2.144 -5.053,3.165 z"
+       fill="#3399ff"
+       id="path73" />
+    <path
+       d="m 563.963,316.98 -1.294,1.247 -1.839,1.521 -2.222,1.648 -2.471,1.652 -2.585,1.532 -2.566,1.284 -2.425,0.91 -2.164,0.393 -1.974,-0.162 -1.944,-0.588 -3.545,-2.127 -2.628,-2.985 1,-0.881 2.56,2.907 -0.157,-0.131 3.385,2.032 -0.15,-0.067 1.797,0.543 -0.139,-0.026 1.816,0.149 -0.173,0.008 2.018,-0.367 -0.115,0.032 2.337,-0.876 -0.064,0.028 2.513,-1.258 -0.041,0.022 2.549,-1.51 -0.031,0.02 2.442,-1.634 -0.026,0.019 2.195,-1.628 -0.028,0.022 1.806,-1.493 -0.038,0.034 1.275,-1.23 z m -28.567,6.511 -0.896,-5.895 5.254,2.821 z"
+       fill="#afd7ff"
+       id="path74" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="400"
+       font-size="7px"
+       transform="translate(567.044,330)"
+       id="text74">Validate the Thought</text>
+    <path
+       d="m 487.5,351.074 c 0,-1.974 1.6,-3.574 3.574,-3.574 h 136.853 c 1.973,0 3.573,1.6 3.573,3.574 v 33.853 c 0,1.973 -1.6,3.573 -3.573,3.573 H 491.074 c -1.974,0 -3.574,-1.6 -3.574,-3.573 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path75" />
+    <path
+       d="m 561,355.504 c 0,-1.935 1.569,-3.504 3.504,-3.504 h 55.992 c 1.935,0 3.504,1.569 3.504,3.504 v 5.992 c 0,1.935 -1.569,3.504 -3.504,3.504 H 564.504 C 562.569,365 561,363.431 561,361.496 Z"
+       stroke="#ffffff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path76" />
+    <text
+       fill="#3399ff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(576.24,362)"
+       id="text76">Tool #2</text>
+    <path
+       d="m 492,357.275 c 0,-2.913 2.362,-5.275 5.275,-5.275 h 50.45 c 2.913,0 5.275,2.362 5.275,5.275 v 20.45 c 0,2.913 -2.362,5.275 -5.275,5.275 h -50.45 C 494.362,383 492,380.638 492,377.725 Z"
+       stroke="#afabab"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afabab"
+       fill-rule="evenodd"
+       id="path77" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(506.584,364)"
+       id="text77">Thought</text>
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(516.164,377)"
+       id="text78">#2</text>
+    <path
+       d="m 561,373.504 c 0,-1.935 1.569,-3.504 3.504,-3.504 h 56.992 c 1.935,0 3.504,1.569 3.504,3.504 v 5.992 c 0,1.935 -1.569,3.504 -3.504,3.504 H 564.504 C 562.569,383 561,381.431 561,379.496 Z"
+       stroke="#afd7ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afd7ff"
+       fill-rule="evenodd"
+       id="path78" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(576.163,380)"
+       id="text79">Fact #2</text>
+    <path
+       d="M 0.666667,-1.92959e-6 0.66676,32.2726 -0.666573,32.2727 -0.666667,1.92959e-6 Z M 2.66676,30.9393 1.04987e-4,36.2727 -2.66658,30.9393 Z"
+       fill="#afabab"
+       transform="matrix(-1,0,0,1,523.5,316.5)"
+       id="path79" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="400"
+       font-size="7px"
+       transform="translate(507.464,332)"
+       id="text80">Fix</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="400"
+       font-size="7px"
+       transform="translate(492.13,340)"
+       id="text81">Thought</text>
+    <path
+       d="m 543.396,352.126 1.339,-1.167 1.902,-1.493 2.323,-1.666 2.617,-1.702 2.786,-1.598 2.833,-1.355 2.766,-0.972 2.572,-0.431 2.566,0.125 2.769,0.533 5.541,2.006 2.593,1.397 2.118,1.831 -0.872,1.008 -2.063,-1.783 0.12,0.083 -2.485,-1.339 0.089,0.04 -5.445,-1.971 0.101,0.027 -2.672,-0.513 0.094,0.011 -2.447,-0.119 0.143,-0.009 -2.445,0.41 0.11,-0.028 -2.677,0.94 0.067,-0.028 -2.778,1.329 0.044,-0.023 -2.749,1.577 0.032,-0.02 -2.589,1.684 0.025,-0.018 -2.298,1.649 0.023,-0.017 -1.877,1.473 0.026,-0.022 -1.326,1.156 z m 35.332,-6.781 1.682,5.721 -5.586,-2.087 z"
+       fill="#afabab"
+       id="path81" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="400"
+       font-size="7px"
+       transform="translate(590.201,343)"
+       id="text82">Another Tool</text>
+    <path
+       d="m 844.5,260.386 c 0,-3.803 3.083,-6.886 6.886,-6.886 h 65.228 c 3.803,0 6.886,3.083 6.886,6.886 v 129.228 c 0,3.803 -3.083,6.886 -6.886,6.886 h -65.228 c -3.803,0 -6.886,-3.083 -6.886,-6.886 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       stroke-dasharray="5.33333, 4"
+       fill="none"
+       fill-rule="evenodd"
+       id="path82" />
+    <text
+       fill="#7c7c7c"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="14px"
+       transform="translate(869.669,414)"
+       id="text83">CoTF</text>
+    <path
+       d="m 852.5,301.766 c 0,-1.251 1.015,-2.266 2.266,-2.266 h 58.468 c 1.251,0 2.266,1.015 2.266,2.266 v 21.468 c 0,1.251 -1.015,2.266 -2.266,2.266 h -58.468 c -1.251,0 -2.266,-1.015 -2.266,-2.266 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path83" />
+    <path
+       d="m 859,307.552 c 0,-1.409 1.143,-2.552 2.552,-2.552 h 14.896 c 1.409,0 2.552,1.143 2.552,2.552 v 9.896 c 0,1.409 -1.143,2.552 -2.552,2.552 H 861.552 C 860.143,320 859,318.857 859,317.448 Z"
+       stroke="#afabab"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afabab"
+       fill-rule="evenodd"
+       id="path84" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(862.693,316)"
+       id="text84">#2</text>
+    <path
+       d="m 887,309.043 c 0,-2.233 1.81,-4.043 4.043,-4.043 h 11.914 c 2.233,0 4.043,1.81 4.043,4.043 v 6.914 c 0,2.233 -1.81,4.043 -4.043,4.043 H 891.043 C 888.81,320 887,318.19 887,315.957 Z"
+       stroke="#afd7ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afd7ff"
+       fill-rule="evenodd"
+       id="path85" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="400"
+       font-size="11px"
+       transform="translate(890.347,316)"
+       id="text85">#</text>
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(897.514,316)"
+       id="text86">2</text>
+    <path
+       d="m 852.5,339.853 c 0,-1.299 1.054,-2.353 2.353,-2.353 h 58.294 c 1.299,0 2.353,1.054 2.353,2.353 v 22.294 c 0,1.299 -1.054,2.353 -2.353,2.353 h -58.294 c -1.299,0 -2.353,-1.054 -2.353,-2.353 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path86" />
+    <path
+       d="m 859,345.552 c 0,-1.409 1.143,-2.552 2.552,-2.552 h 14.896 c 1.409,0 2.552,1.143 2.552,2.552 v 9.896 c 0,1.409 -1.143,2.552 -2.552,2.552 H 861.552 C 860.143,358 859,356.857 859,355.448 Z"
+       stroke="#afabab"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afabab"
+       fill-rule="evenodd"
+       id="path87" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(862.693,354)"
+       id="text87">#3</text>
+    <path
+       d="m 887,347.043 c 0,-2.233 1.81,-4.043 4.043,-4.043 h 11.914 c 2.233,0 4.043,1.81 4.043,4.043 v 6.914 c 0,2.233 -1.81,4.043 -4.043,4.043 H 891.043 C 888.81,358 887,356.19 887,353.957 Z"
+       stroke="#afd7ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afd7ff"
+       fill-rule="evenodd"
+       id="path88" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(890.347,354)"
+       id="text88">#3</text>
+    <path
+       d="m 852.5,262.853 c 0,-1.299 1.054,-2.353 2.353,-2.353 h 58.294 c 1.299,0 2.353,1.054 2.353,2.353 v 22.294 c 0,1.299 -1.054,2.353 -2.353,2.353 h -58.294 c -1.299,0 -2.353,-1.054 -2.353,-2.353 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path89" />
+    <path
+       d="m 887,270.504 c 0,-1.935 1.569,-3.504 3.504,-3.504 h 12.992 c 1.935,0 3.504,1.569 3.504,3.504 v 5.992 c 0,1.935 -1.569,3.504 -3.504,3.504 H 890.504 C 888.569,280 887,278.431 887,276.496 Z"
+       stroke="#afd7ff"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afd7ff"
+       fill-rule="evenodd"
+       id="path90" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(890.348,277)"
+       id="text90">#1</text>
+    <path
+       d="m 859,269.212 c 0,-1.222 0.99,-2.212 2.212,-2.212 h 15.576 c 1.222,0 2.212,0.99 2.212,2.212 v 8.576 c 0,1.222 -0.99,2.212 -2.212,2.212 H 861.212 C 859.99,280 859,279.01 859,277.788 Z"
+       stroke="#afabab"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#afabab"
+       fill-rule="evenodd"
+       id="path91" />
+    <text
+       fill="#ffffff"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-style="italic"
+       font-weight="700"
+       font-size="11px"
+       transform="translate(862.693,277)"
+       id="text91">#1</text>
+    <path
+       d="m 852.5,380.064 c 0,-1.968 1.596,-3.564 3.564,-3.564 h 55.872 c 1.968,0 3.564,1.596 3.564,3.564 v 4.872 c 0,1.968 -1.596,3.564 -3.564,3.564 h -55.872 c -1.968,0 -3.564,-1.596 -3.564,-3.564 z"
+       stroke="#ededed"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ededed"
+       fill-rule="evenodd"
+       id="path92" />
+    <text
+       fill="#767171"
+       font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="11px"
+       transform="translate(879.585,384)"
+       id="text92">...</text>
+    <path
+       d="m 884.167,287.5 v 8.221 h -1.334 V 287.5 Z m 2,6.887 -2.667,5.334 -2.667,-5.334 z"
+       fill="#d9d9d9"
+       id="path93" />
+    <path
+       d="m 884.167,325.5 v 8.221 h -1.334 V 325.5 Z m 2,6.887 -2.667,5.334 -2.667,-5.334 z"
+       fill="#d9d9d9"
+       id="path94" />
+    <path
+       d="m 884.167,364.5 v 8.221 h -1.333 l -10e-4,-8.221 z m 2,6.887 -2.667,5.334 -2.666,-5.334 z"
+       fill="#d9d9d9"
+       id="path95" />
+    <path
+       d="m 945,267.333 c 0,-3.497 2.836,-6.333 6.333,-6.333 h 57.337 c 3.49,0 6.33,2.836 6.33,6.333 v 25.334 c 0,3.497 -2.84,6.333 -6.33,6.333 H 951.333 C 947.836,299 945,296.164 945,292.667 Z"
+       fill="#fff2cc"
+       fill-rule="evenodd"
+       id="path96" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(955.043,278)"
+       id="text96">Style</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(974.21,278)"
+       id="text97">-</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(976.877,278)"
+       id="text98">aligned</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(958.79,290)"
+       id="text99">Generation</text>
+    <path
+       d="m 945,320.333 c 0,-3.497 2.836,-6.333 6.333,-6.333 h 57.337 c 3.49,0 6.33,2.836 6.33,6.333 v 25.334 c 0,3.497 -2.84,6.333 -6.33,6.333 H 951.333 C 947.836,352 945,349.164 945,345.667 Z"
+       fill="#fff2cc"
+       fill-rule="evenodd"
+       id="path99" />
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(972.537,330)"
+       id="text100">Self</text>
+    <text
+       fill="#595959"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="8px"
+       transform="translate(956.043,342)"
+       id="text101">Consistency</text>
+    <path
+       d="m 974,306.478 h 3.397 V 302 h 5.206 v 4.478 H 986 L 980,311 Z"
+       fill="#fff2cc"
+       fill-rule="evenodd"
+       id="path101" />
+    <path
+       d="m 932.478,280 v -3.397 H 928 v -5.206 h 4.478 V 268 l 4.522,6 z"
+       fill="#fff2cc"
+       fill-rule="evenodd"
+       id="path102" />
+    <path
+       d="m 974,358.98 h 3.397 V 355 h 5.206 v 3.98 H 986 l -6,4.02 z"
+       fill="#fff2cc"
+       fill-rule="evenodd"
+       id="path103" />
+    <path
+       d="m 945.5,371.362 c 0,-2.685 2.177,-4.862 4.862,-4.862 h 59.278 c 2.68,0 4.86,2.177 4.86,4.862 v 5.276 c 0,2.685 -2.18,4.862 -4.86,4.862 h -59.278 c -2.685,0 -4.862,-2.177 -4.862,-4.862 z"
+       stroke="#ffd966"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="url(#pattern1)"
+       fill-rule="evenodd"
+       id="path104" />
+    <text
+       fill="#ffc000"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="7px"
+       transform="translate(968.049,376)"
+       id="text104">Concise</text>
+    <text
+       fill="#ffc000"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="7px"
+       transform="translate(993.716,376)"
+       id="text105">-</text>
+    <text
+       fill="#ffc000"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="7px"
+       transform="translate(995.882,376)"
+       id="text106">style</text>
+    <path
+       d="m 945.5,390.408 c 0,-2.711 2.197,-4.908 4.908,-4.908 h 59.182 c 2.71,0 4.91,2.197 4.91,4.908 v 14.184 c 0,2.711 -2.2,4.908 -4.91,4.908 h -59.182 c -2.711,0 -4.908,-2.197 -4.908,-4.908 z"
+       stroke="#ffd966"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="url(#pattern2)"
+       fill-rule="evenodd"
+       id="path106" />
+    <text
+       fill="#ffc000"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="7px"
+       transform="translate(977.811,405)"
+       id="text107">Long</text>
+    <text
+       fill="#ffc000"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="7px"
+       transform="translate(993.811,405)"
+       id="text108">-</text>
+    <text
+       fill="#ffc000"
+       font-family="Helvetica, Helvetica_MSFontService, sans-serif"
+       font-style="oblique"
+       font-weight="700"
+       font-size="7px"
+       transform="translate(995.978,405)"
+       id="text109">style</text>
+  </g>
+  <rect
+     style="fill:#000000"
+     id="rect112"
+     width="2.5335968"
+     height="52.572136"
+     x="542.82312"
+     y="148.21542" />
+</svg>
