@@ -1,0 +1,23 @@
+{
+    "name": "draft_thoughts",
+    "strict": true,
+    "schema": {
+        "type": "object",
+        "properties": {},
+        "$defs": {
+            "thought": {
+                "type": "object",
+                "properties": {
+                    "analysis": {
+                        "type": "string",
+                        "description": "The analysis of the phrase"
+                    }
+                },
+                "required": ["analysis"],
+                "additionalProperties": false
+            }
+        },
+        "required": [],
+        "additionalProperties": false
+    }
+}

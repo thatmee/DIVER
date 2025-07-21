@@ -1,0 +1,63 @@
+{
+    "name": "draft_thoughts",
+    "strict": true,
+    "schema": {
+        "type": "object",
+        "properties": {},
+        "$defs": {
+            "thought": {
+                "type": "object",
+                "properties": {
+                    "analysis": {
+                        "type": "string",
+                        "description": "The analysis of the phrase"
+                    },
+                    "lookup": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "lookup_type": {
+                                    "type": "string",
+                                    "enum": [
+                                        "none",
+                                        "value_in",
+                                        "sim_value_in",
+                                        "head",
+                                        "random",
+                                        "if_null",
+                                        "info",
+                                        "sim_columns"
+                                    ]
+                                },
+                                "lookup_table": {
+                                    "type": "string"
+                                },
+                                "lookup_column": {
+                                    "type": "string"
+                                },
+                                "lookup_value": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "lookup_type",
+                                "lookup_table",
+                                "lookup_column",
+                                "lookup_value"
+                            ],
+                            "additionalProperties": false
+                        }
+                    }
+                },
+                "required": [
+                    "analysis",
+                    "lookup"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "required": [],
+        "additionalProperties": false
+    }
+}
