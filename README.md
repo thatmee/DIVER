@@ -1,3 +1,5 @@
+<meta name="robots" content="noindex, nofollow" />
+
 # DIVER: A Robust Text-to-SQL System with **D**ynamic **I**nteractive **V**alue Linking and **E**vidence **R**easoning
 
 The source code of DIVER.
