@@ -19,7 +19,7 @@ To address this, we propose DIVER, a robust system that **_automates_** evidence
 ```bash
 conda create -n diver python=3.10.13
 conda activate diver
-pip install -r pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 2️⃣ set your openai key in `./config/openai_api.json`
